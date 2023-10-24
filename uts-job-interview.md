@@ -61,7 +61,7 @@ erDiagram
 ```
 
 ## 4. Arsitektur Sistem
-
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     line1["`Aplikasi Android : JavaScript - React Native`"]
     line2["`Web Server`"]
@@ -96,6 +96,7 @@ Framework
 <img width="533" alt="home page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/e61b8262-61f3-4681-9d04-c8c2b2499ab4">
 <img width="438" alt="order page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/6017a5d1-d43d-48ba-a34a-e055c09f7240">
 <img width="357" alt="chat page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/89725b08-096a-44f4-ab20-07bfa8f1de95">
+
 <img width="219" alt="profile page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/1a6c54be-9384-4426-80dc-6b748bf51016">
 
 ## 7. Demonstrasi Video
