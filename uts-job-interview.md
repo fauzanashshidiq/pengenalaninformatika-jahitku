@@ -54,9 +54,9 @@ Pengguna | Melakukan rating | Bisa melihat dan dilihat kualitas penjahit | ‚≠ê‚≠
 ```mermaid
 erDiagram
     PELANGGAN }|..|{ JASA-PENJAHIT : memilih
-    PELANGGAN ||--o{ PEMESANAN : melakukan
+    PELANGGAN ||--o{ PESANAN : melakukan
     PELANGGAN }|..|{ ULASAN : memberikan
-    PEMESANAN ||--|{ KATEGORI-PAKAIAN : mengandung
+    PESANAN ||--|{ KATEGORI-PAKAIAN : mengandung
     KATEGORI-PAKAIAN ||--|| UKURAN-PAKAIAN : mengandung
 ```
 
