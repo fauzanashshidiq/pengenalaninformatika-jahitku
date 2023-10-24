@@ -62,7 +62,7 @@ erDiagram
 
 ## 4. Arsitektur Sistem
 ```mermaid
-flowchart TD
+flowchart BT
     line4["Database"]
     line3["Aplikasi Web Backend"]    
     line2["Web Server"]
@@ -81,7 +81,7 @@ Teknologi dalam aplikasi "JahitKu" yaitu sebagai berikut.
 
 Library
 1. react-navigation/native
-2. @react-navigation/native-stack
+2. react-navigation/native-stack
 3. react
 4. react-native
 5. react-native-safe-area-context
@@ -97,7 +97,6 @@ Framework
 <img width="533" alt="home page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/e61b8262-61f3-4681-9d04-c8c2b2499ab4">
 <img width="438" alt="order page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/6017a5d1-d43d-48ba-a34a-e055c09f7240">
 <img width="357" alt="chat page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/89725b08-096a-44f4-ab20-07bfa8f1de95">
-
 <img width="219" alt="profile page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/1a6c54be-9384-4426-80dc-6b748bf51016">
 
 ## 7. Demonstrasi Video
