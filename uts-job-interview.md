@@ -1,7 +1,7 @@
 ## 1.1 Latar Belakang
 
-![alt.text](<img width="346" alt="login page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/16eeffad-e884-4ad6-a8d7-efe5307d36aa">
-)
+<img width="346" alt="login page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/16eeffad-e884-4ad6-a8d7-efe5307d36aa">
+
 
 ## 1.2. Deksripsi Teknologi Informasi
 
