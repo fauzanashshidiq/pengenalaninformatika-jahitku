@@ -61,13 +61,8 @@ erDiagram
 ```
 
 ## 4. Arsitektur Sistem
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-    markdown["`This **is** _Markdown_`"]
-    newLines["`Line1
-    Line 2
-    Line 3`"]
-    markdown --> newLines
+flowchart TD
+    Start --> Stop
 
 ## 5. Teknologi, Library, dan Framework
 Teknologi dalam aplikasi "JahitKu" yaitu sebagai berikut.
