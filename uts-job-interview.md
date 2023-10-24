@@ -61,8 +61,16 @@ erDiagram
 ```
 
 ## 4. Arsitektur Sistem
-flowchart TD
-    Start --> Stop
+```mermaid
+flowchart LR
+    line1["`Aplikasi Android : JavaScript - React Native`"]
+    line2["`Web Server`"]
+    line3["`Aplikasi Web Backend`"]
+    line4["`Database`"]
+    line1 --> line2
+    line2 --> line3
+    line3 --> line4
+```
 
 ## 5. Teknologi, Library, dan Framework
 Teknologi dalam aplikasi "JahitKu" yaitu sebagai berikut.
