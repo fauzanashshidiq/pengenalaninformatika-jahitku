@@ -63,10 +63,10 @@ erDiagram
 ## 4. Arsitektur Sistem
 ```mermaid
 flowchart TD
-    line1["Aplikasi Android : JavaScript - React Native"]
-    line2["Web Server"]
-    line3["Aplikasi Web Backend"]
     line4["Database"]
+    line3["Aplikasi Web Backend"]    
+    line2["Web Server"]
+    line1["Aplikasi Android : JavaScript - React Native"]
     line1 --> line2
     line2 --> line3
     line3 --> line4
