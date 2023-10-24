@@ -63,13 +63,11 @@ erDiagram
 ## 4. Arsitektur Sistem
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    line1["`Aplikasi Android : JavaScript - React Native`"]
-    line2["`Web Server`"]
-    line3["`Aplikasi Web Backend`"]
-    line4["`Database`"]
-    line1 --> line2
-    line2 --> line3
-    line3 --> line4
+    markdown["`This **is** _Markdown_`"]
+    newLines["`Line1
+    Line 2
+    Line 3`"]
+    markdown --> newLines
 
 ## 5. Teknologi, Library, dan Framework
 Teknologi dalam aplikasi "JahitKu" yaitu sebagai berikut.
