@@ -19,7 +19,7 @@ Dengan adanya ulasan dari pelanggan melalui aplikasi, penjahit dapat memperbaiki
 - Target user:
 	- Usia
 	- Seorang yang membutuhkan jasa jahit
-	- Seorang yang mempromodikan jasa jahitnya
+	- Seorang yang mempromosikan jasa jahitnya
 	- Seorang yang senang menjelajahi pakaian kostum
 	- Seorang yang ingin transaksi pelanggan dan penjahit secara adil dan aman
 - User experience theme:
