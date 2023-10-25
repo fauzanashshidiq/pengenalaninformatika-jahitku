@@ -63,7 +63,7 @@ erDiagram
 ## 4. Arsitektur Sistem
 ```mermaid
 flowchart BT
-    line4["Database"]
+    line4["Database : postgreSQL"]
     line3["Aplikasi Web Backend"]    
     line2["Web Server"]
     line1["Aplikasi Android : JavaScript - React Native"]
