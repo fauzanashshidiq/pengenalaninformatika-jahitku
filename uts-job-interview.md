@@ -144,6 +144,7 @@ Framework
 <img width="357" alt="chat page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/89725b08-096a-44f4-ab20-07bfa8f1de95">
 <img width="219" alt="profile page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/1a6c54be-9384-4426-80dc-6b748bf51016">
 
+https://www.figma.com/proto/3gizhjB5SDDplSFTwEGOoz/JahitKu?type=design&node-id=1-2&t=AEQx9lvX2ykwehHW-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
 ## 7. Demonstrasi Video
 
 Link youtube nya
