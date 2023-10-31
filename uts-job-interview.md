@@ -27,6 +27,7 @@ Dengan adanya ulasan dari pelanggan melalui aplikasi, penjahit dapat memperbaiki
 	- Segar
 	- Netral
 	- Warna: Palet warna krem, lavender, dan abu-abu tua (kecoklatan)
+ 	- Inspirasi design:
 ![Inspirasi-palet-warna-4 ss](https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/f5a2a4c5-4f57-401d-aada-a71c46809105)
 ![IG-BAJU-KURUNG-LACE-LEONORE-PARENT-LAVENDER-1-1-1200x1501](https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/85fa9c44-d7d9-4199-a875-3b24b3ac00db)
 ![SPECIAL_Nibras_NB_79_Ungu_Tua_ORIGINAL_Baju_Gamis_Ungu_Gamis](https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/0bb52fb3-25ad-456c-be18-3797d802a612)
@@ -84,7 +85,7 @@ erDiagram
         string id_pelanggan
         int tipe_pesanan
         string id_penjahit
-        timestamp waktu_pemesanan
+        timestamp waktu_pesanan
     }
     PELANGGAN }o..o{ ULASAN : memberikan
     PENJAHIT |o..o{ ULASAN : menerima
