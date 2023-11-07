@@ -2,7 +2,7 @@
 
 Aplikasi "JahitKu" merupakan aplikasi android yang dibuat dari ide yang muncul dari inspirasi saya pribadi. Saya dimotivasi oleh pengalaman keluarga (Ibu) yang terlibat dalam usaha jasa jahit. Semakin berkembangnya era digital, penggunaan teknologi telah menjadi semakin penting dalam berbagai aspek kehidupan, termasuk dalam menjalankan bisnis yang bisa dibilang tradisional seperti usaha jasa jahit.
 
-Penjahit merupakan unit usaha kecil menengah yang perlu diketahui untuk di tingkatkan produktifitasnya. Usaha kecil dan mengengah (UKM) merupakan sektor usaha yang memiliki peran penting dalam pertumbuhan ekonomi di Indonesia. Salah satu usaha kecil dan menengah adalah industri penjahit. Berdasarkan data yang diambil dari Badan Pusat Statistik (BPS), banyaknya Pekerja UMK menurut Wilayah dan Lapangan Usaha Indonesia untuk jasa lainnya sekitar 2.363.281 dari jumlah pekerja UMK sekitar 59.266.885 di Indonesia. Jasa lainnya dalam hal ini adalah salah satunya pekerja dalam industri penjahit. Artinya, penjahit di seluruh Indonesia kurang dari sekitar 2 juta orang. Terlepas dari itu, penjahit masih dibutuhkan dalam kehidupan sehari-hari demi kebutuhan pelanggan yang masih banyak membutuhkan jasa jahit untuk menjahit pakaiannya.
+Penjahit merupakan unit usaha kecil menengah yang perlu diketahui untuk di tingkatkan produktifitasnya. Usaha kecil dan mengengah (UKM) merupakan sektor usaha yang memiliki peran penting dalam pertumbuhan ekonomi di Indonesia. Salah satu usaha kecil dan menengah adalah industri penjahit. Berdasarkan data yang diambil dari Badan Pusat Statistik (BPS), banyaknya Pekerja Usaha Mikro Kecil (UMK) menurut Wilayah dan Lapangan Usaha Indonesia untuk jasa lainnya sekitar 2.363.281 dari jumlah pekerja UMK sekitar 59.266.885 di Indonesia. Jasa lainnya dalam hal ini adalah salah satunya pekerja dalam industri penjahit. Artinya, penjahit di seluruh Indonesia kurang dari sekitar 2 juta orang. Terlepas dari itu, penjahit masih dibutuhkan dalam kehidupan sehari-hari demi kebutuhan pelanggan yang masih banyak membutuhkan jasa jahit untuk menjahit pakaiannya.
 
 Aplikasi "JahitKu" ini termasuk dalam perubahan tren dalam kehidupan sehari-hari. Seiring dengan berkembangnya teknologi, pelanggan cenderung mencari cara yang lebih efisien, nyaman, dan cepat untuk mendapatkan layanan dan produk yang mereka butuhkan. Sehingga, aplikasi "JahitKu" dibuat untuk menyatukan antara kebiasaan masyarakat dalam kehidupan sehari-hari dan teknologi dengan tujuannya yaitu memenuhi kebutuhan pelanggan yang semakin beragam serta mendukung kelangsungan usaha jasa jahit.
 
@@ -10,7 +10,7 @@ Aplikasi "JahitKu" ini termasuk dalam perubahan tren dalam kehidupan sehari-hari
 
 Aplikasi "JahitKu" dibuat dengan tujuan memudahkan interaksi antara pelanggan dan penjahit. Pelanggan dapat menemukan penjahit terdekat sekaligus terbaik untuk melakukan pesanan jahit. Dengan ini, pelanggan tidak perlu khawatir lagi untuk memperbaiki pakaiannya. Selain itu juga, pelanggan dapat berkonsultasi secara jarak jauh sehingga bisa menyesuaikan sesuai dengan kebutuhan dalam pakaiannya.
 
-Aplikasi "JahitKu" ini dapat membantu penjahit dan pelanggannya dalam mengelola pesanan dan komunikasi yang lebih efesien. Hal ini akan memungkinkan penjahit untuk meningkatkan layanan yang berkualitas agar bisnisnya berjalan dengan baik. Selain itu, aplikasi "JahitKu" dibuat bertujuan untuk mendukung usaha kecil yaitu usaha jasa jahit, sehingga dapat bersaing satu sama lain yang semakin kompetitif.
+Aplikasi "JahitKu" ini dapat membantu penjahit dan pelanggannya dalam mengelola pesanan dan komunikasi yang lebih efesien. Hal ini akan memungkinkan penjahit untuk meningkatkan layanan yang berkualitas agar bisnisnya berjalan dengan baik. Selain itu, aplikasi "JahitKu" dibuat bertujuan untuk mendukung usaha kecil yaitu usaha jasa jahit, sehingga dapat bersaing satu sama lain yang diharapkan semakin kompetitif.
 
 Dengan adanya ulasan dari pelanggan melalui aplikasi, penjahit dapat memperbaiki kualitas layanan mereka dan memenuhi harapan pelanggan dengan lebih baik. Aplikasi "JahitKu" ini diharapkan dapat bisa mengikuti era digital yang sudah berkembang. Sehingga dapat mempertahankan bisnis penjahit, memberikan kemudahan, dan ataupun meningkatkan potensi jasa jahit.
 
@@ -23,7 +23,7 @@ Dengan adanya ulasan dari pelanggan melalui aplikasi, penjahit dapat memperbaiki
 	- Seorang yang membutuhkan jasa jahit
 	- Seorang yang mempromosikan jasa jahitnya
 	- Seorang yang senang menjelajahi pakaian kostum
-	- Seorang yang ingin transaksi pelanggan dan penjahit secara adil dan aman
+	- Seorang yang ingin transaksi antara pelanggan dan penjahit secara adil dan aman
 - User experience theme:
 	- Tenang
 	- Segar
