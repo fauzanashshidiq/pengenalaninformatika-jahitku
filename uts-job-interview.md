@@ -2,6 +2,8 @@
 
 Aplikasi "JahitKu" merupakan aplikasi android yang dibuat dari ide yang muncul dari inspirasi saya pribadi. Saya dimotivasi oleh pengalaman keluarga (Ibu) yang terlibat dalam usaha jasa jahit. Semakin berkembangnya era digital, penggunaan teknologi telah menjadi semakin penting dalam berbagai aspek kehidupan, termasuk dalam menjalankan bisnis yang bisa dibilang tradisional seperti usaha jasa jahit.
 
+Penjahit merupakan unit usaha kecil menengah yang perlu diketahui untuk di tingkatkan produktifitasnya. Usaha kecil dan mengengah (UKM) merupakan sektor usaha yang memiliki peran penting dalam pertumbuhan ekonomi di Indonesia. Salah satu usaha kecil dan menengah adalah industri penjahit. Berdasarkan data yang diambil dari Badan Pusat Statistik (BPS), banyaknya Pekerja UMK menurut Wilayah dan Lapangan Usaha Indonesia untuk jasa lainnya sekitar 2.363.281 dari jumlah pekerja UMK sekitar 59.266.885 di Indonesia. Jasa lainnya dalam hal ini adalah salah satunya pekerja dalam industri penjahit. Artinya, penjahit di seluruh Indonesia kurang dari sekitar 2 juta orang. Terlepas dari itu, penjahit masih dibutuhkan dalam kehidupan sehari-hari demi kebutuhan pelanggan yang masih banyak membutuhkan jasa jahit untuk menjahit pakaiannya.
+
 Aplikasi "JahitKu" ini termasuk dalam perubahan tren dalam kehidupan sehari-hari. Seiring dengan berkembangnya teknologi, pelanggan cenderung mencari cara yang lebih efisien, nyaman, dan cepat untuk mendapatkan layanan dan produk yang mereka butuhkan. Sehingga, aplikasi "JahitKu" dibuat untuk menyatukan antara kebiasaan masyarakat dalam kehidupan sehari-hari dan teknologi dengan tujuannya yaitu memenuhi kebutuhan pelanggan yang semakin beragam serta mendukung kelangsungan usaha jasa jahit.
 
 ## 1.2. Deksripsi Teknologi Informasi
