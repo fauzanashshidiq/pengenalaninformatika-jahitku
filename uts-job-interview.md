@@ -116,9 +116,11 @@ erDiagram
 ## 4. Arsitektur Sistem
 ```mermaid
 flowchart BT
-    line4["Database : postgreSQL"]
-    line3["Aplikasi Web Backend"]    
-    line2["Web Server"]
+    subgraph "Cloud"
+    	line4["Database : postgreSQL"]
+    	line3["Aplikasi Web Backend : JavaScript - Express.js"]    
+    	line2["Web Server: JavaScript - Express.js"]
+    end
     line1["Aplikasi Android : JavaScript - React Native"]
     line1 --> line2
     line2 --> line3
