@@ -174,33 +174,24 @@ Framework
 https://www.figma.com/proto/3gizhjB5SDDplSFTwEGOoz/JahitKu?type=design&node-id=1-2&t=AEQx9lvX2ykwehHW-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
 
 ## 7. Demonstrasi Video
-https://www.youtube.com/watch?v=bH1DRO2yN_M&t=17s
-00:17 Demonstrasi Tentang Aplikasi JahitKu
-
+https://youtu.be/bH1DRO2yN_M
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 https://www.youtube.com/watch?v=bH1DRO2yN_M&t=646s
-Link youtube nya di detik jawaban ini
 
-10:46 Mesin Komputasi dan Sistem Operasi yang berperan dalam Aplikasi JahitKu
-
+Menit 10:46 tentang Mesin Komputasi dan Sistem Operasi yang berperan dalam Aplikasi JahitKu
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
 https://www.youtube.com/watch?v=bH1DRO2yN_M&t=730s
-Link youtube nya di detik jawaban ini
 
-12:10 Algoritma, Struktur Data, dan Bahasa Pemrograman yang berperan dalam Aplikasi JahitKu
-
+Menit 12:10 tentang Algoritma, Struktur Data, dan Bahasa Pemrograman yang berperan dalam Aplikasi JahitKu
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 https://www.youtube.com/watch?v=bH1DRO2yN_M&t=1440s
-Link youtube nya di detik jawaban ini
 
-24:00 Software Development Life Cycle (SDLC) yang berperan dalam Aplikasi JahitKu
+Menit 24:00 tentang Software Development Life Cycle (SDLC) yang berperan dalam Aplikasi JahitKu
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
 https://www.youtube.com/watch?v=bH1DRO2yN_M&t=2380s
-Link youtube nya di detik jawaban ini
 
-39:40 Database/Sistem Basis Data yang berperan dalam Aplikasi JahitKu
-Link youtube nya
+Menit 39:40 tentang Database/Sistem Basis Data yang berperan dalam Aplikasi JahitKu
