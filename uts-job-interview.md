@@ -149,31 +149,58 @@ Framework
 
 
 ## 6. Desain User Experience dan User Interface
+<p>
+	<img width="346" alt="login page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/16eeffad-e884-4ad6-a8d7-efe5307d36aa">
+</p>
 
-<img width="346" alt="login page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/16eeffad-e884-4ad6-a8d7-efe5307d36aa">
-<img width="533" alt="home page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/e61b8262-61f3-4681-9d04-c8c2b2499ab4">
-<img width="438" alt="order page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/6017a5d1-d43d-48ba-a34a-e055c09f7240">
-<img width="357" alt="chat page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/89725b08-096a-44f4-ab20-07bfa8f1de95">
-<img width="219" alt="profile page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/1a6c54be-9384-4426-80dc-6b748bf51016">
+<p>
+	<img width="600" alt="home page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/e61b8262-61f3-4681-9d04-c8c2b2499ab4">
+<img width="400" alt="home page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/47431f4d-d2a5-412b-8d1c-308063bdb0fa">
+</p>
+
+<p>
+	<img width="438" alt="order page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/6017a5d1-d43d-48ba-a34a-e055c09f7240">
+</p>
+
+<p>
+	<img width="400" alt="chat page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/89725b08-096a-44f4-ab20-07bfa8f1de95">
+	<img width="270" alt="chat page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/c38467dc-01ca-40d9-b8c2-b14085118b2e">
+</p>
+
+<p>
+	<img width="320" alt="profile page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/51f3c980-c69c-4c22-9a3f-295b2f4470b7">
+</p>
 
 https://www.figma.com/proto/3gizhjB5SDDplSFTwEGOoz/JahitKu?type=design&node-id=1-2&t=AEQx9lvX2ykwehHW-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
 
 ## 7. Demonstrasi Video
+https://www.youtube.com/watch?v=bH1DRO2yN_M&t=17s
+00:17 Demonstrasi Tentang Aplikasi JahitKu
 
-Link youtube nya
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
-
+https://www.youtube.com/watch?v=bH1DRO2yN_M&t=646s
 Link youtube nya di detik jawaban ini
+
+10:46 Mesin Komputasi dan Sistem Operasi yang berperan dalam Aplikasi JahitKu
+
 
 ## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
-
+https://www.youtube.com/watch?v=bH1DRO2yN_M&t=730s
 Link youtube nya di detik jawaban ini
+
+12:10 Algoritma, Struktur Data, dan Bahasa Pemrograman yang berperan dalam Aplikasi JahitKu
+
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-
+https://www.youtube.com/watch?v=bH1DRO2yN_M&t=1440s
 Link youtube nya di detik jawaban ini
+
+24:00 Software Development Life Cycle (SDLC) yang berperan dalam Aplikasi JahitKu
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-
+https://www.youtube.com/watch?v=bH1DRO2yN_M&t=2380s
 Link youtube nya di detik jawaban ini
+
+39:40 Database/Sistem Basis Data yang berperan dalam Aplikasi JahitKu
+Link youtube nya
