@@ -32,7 +32,10 @@ Dengan adanya ulasan dari pelanggan melalui aplikasi, penjahit dapat memperbaiki
  	- Inspirasi design:
 
 <p align="center">
-  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-uas/blob/main/UAS-PI/Gambar/Sertifikat%20Event%20STARTUP.png" width="700" height="500">
+  <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/blob/main/Gambar/tema%20inspirasi%20jahitku%20palet.jpg" width="300" height="50">
+</p>
+<p align="center">
+	<img src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/blob/main/Gambar/tema%20inpirasi%20jahitku2.jpg" width="300" height="400"> <img src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/blob/main/Gambar/tema%20inspirasi%20jahitku.jpg" width="300" height="400">
 </p>
 
 ## 2. User Story
