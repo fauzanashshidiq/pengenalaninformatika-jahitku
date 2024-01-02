@@ -43,6 +43,7 @@ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | Melakukan daftar akun | Mempunyai akun untuk login | ⭐⭐⭐⭐⭐
 Pengguna | Melakukan login | Bisa menggunakan aplikasi | ⭐⭐⭐⭐⭐
+Pengguna | Daftar sebagai penjahit | Bisa menggunakan aplikasi sebagai penjahit | ⭐⭐⭐⭐⭐
 Pelanggan | Mengecek saldo | Memudahkan ketika ingin melakukan pesanan | ⭐⭐⭐⭐⭐
 Pelanggan | Mengisi saldo | Bisa membayar pesanan | ⭐⭐⭐⭐⭐
 Pelanggan | Menjelajahi jasa jahit | Bisa memilih jasa jahit | ⭐⭐⭐⭐⭐
@@ -60,8 +61,12 @@ Pelanggan | Mengedit profil | Dapat diketahui oleh pengguna yang lain | ⭐⭐�
 Pelanggan | Memasukkan penjahit ke dalam favorit | Memudahkan pengguna untuk mencari penjahit yang menurutnya terbaik | ⭐⭐⭐
 Pelanggan | Melakukan rating | Bisa melihat dan dilihat kualitas penjahit | ⭐⭐⭐⭐⭐
 Pelanggan | Memberikan ulasan | Bisa mengapresiasi dari kualitas penjahit | ⭐⭐⭐⭐⭐
+Penjahit | Melihat Daftar pesanan | Bisa memilih untuk menerima pesanan | ⭐⭐⭐⭐⭐
 Penjahit | Mengkonfirmasi pesanan | Bisa menerima pesanan | ⭐⭐⭐⭐⭐
 Penjahit | Mengkonfirmasi bukti pembayaran | Melakukan jasa jahitnya | ⭐⭐⭐⭐⭐
+Penjahit | Melihat rating | Bisa melihat penilaian pelanggan | ⭐⭐⭐⭐
+Penjahit | Melihat ulasan | Bisa memperbaiki atau meningkatkan kualitas | ⭐⭐⭐⭐
+Penjahit | Mempromosikan jasa jahit | Bisa diketahui oleh pelanggan | ⭐⭐⭐⭐⭐
 
 
 ## 3. Struktur Data
@@ -152,6 +157,7 @@ Framework
 <img width="219" alt="profile page" src="https://github.com/fauzanashshidiq/pengenalaninformatika-jahitku/assets/144435273/1a6c54be-9384-4426-80dc-6b748bf51016">
 
 https://www.figma.com/proto/3gizhjB5SDDplSFTwEGOoz/JahitKu?type=design&node-id=1-2&t=AEQx9lvX2ykwehHW-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design
+
 ## 7. Demonstrasi Video
 
 Link youtube nya
